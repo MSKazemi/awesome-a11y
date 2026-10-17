@@ -45,3 +45,9 @@ _Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 ## Support me
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U4IDQTS)
+
+<!-- fork-notice: start -->
+### Notice concerning this fork
+
+This repository is a fork of an upstream project. The original copyright, licenses and upstream maintainers' legal terms remain unchanged. See this fork's [Supplemental Disclaimer and Risk Notice](DISCLAIMER.md) concerning the fork maintainer's own contributions; it does not claim to bind upstream authors or override mandatory legal rights.
+<!-- fork-notice: end -->
